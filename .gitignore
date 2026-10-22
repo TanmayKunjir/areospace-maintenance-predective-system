@@ -1,0 +1,6 @@
+node_modules/
+.next/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
